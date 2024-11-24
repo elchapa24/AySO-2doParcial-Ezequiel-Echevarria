@@ -8,7 +8,7 @@ vim dockerfile:
 FROM nginx
 COPY appHomeBanking /usr/share/nginx/html
 vim index.html:
-<h1> Este es el titulo de el index de el parcial </h1>
+<h1> titulo index parcial </h1>
 vim contacto.html:
 <h1> Numero de contacto </h1>
 <h2> Nombre: ezequiel </h2>
