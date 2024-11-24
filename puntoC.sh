@@ -19,4 +19,4 @@ docker push elchapa24/homebanking:v1.0
 docker run -d -p 8080:80 elchapa24/2parcial-ayso:v1.0
 docker image ls
 docker container ls
-docker stop f7074bbfb498
+docker stop 00b54b7dfd11
