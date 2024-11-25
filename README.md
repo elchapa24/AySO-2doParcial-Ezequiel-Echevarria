@@ -1,4 +1,4 @@
-# AySO-2doParcial-JuanPerez
+# AySO-2doParcial-EzequielEchevarria
 Nombre: ezequiel
 Apellido: echevarria 
 Legajo: 117681
